@@ -1,3 +1,14 @@
+<p align="center">
+  <a href="https://github.com/TakSeBiegam/Csharp-cheatsheet/network">
+    <img src="https://img.shields.io/github/forks/TakSeBiegam/Csharp-cheatsheet.svg" alt="GitHub forks">
+  </a>
+  <a href="https://github.com/TakSeBiegam/Csharp-cheatsheet/stargazers">
+    <img src="https://img.shields.io/github/stars/TakSeBiegam/Csharp-cheatsheet.svg" alt="GitHub stars">
+  </a>
+  <a href="https://github.com/TakSeBiegam/Csharp-cheatsheet/issues">
+    <img src="https://img.shields.io/github/issues/TakSeBiegam/Csharp-cheatsheet.svg" alt="GitHub issues">
+  </a>
+</p>
 # C# CHEATSHEET
 This cheatsheet provides a quick reference for common C# syntax and constructs. It is intended for developers who are new to C# or are looking for a quick reference.
 
